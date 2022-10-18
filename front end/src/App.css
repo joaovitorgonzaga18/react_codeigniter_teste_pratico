@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.Box-lista {
+  margin-top: 20px !important;
+}
+
+.botaoGerencia {
+  margin: 10px 10px 10px 0px;
+  padding: 0px 0px;
+  width: 100px;
+}
+
+
+.title {
+  margin: 10px 0px;
+}
+
+.nomeInput {
+  width: 100px;
+}
+
+.formInput {
+  width: 300px;
+  margin-right: 10px;
+}
+
+.listagem {
+  height: 300px;
+  overflow-y: scroll;
+}
